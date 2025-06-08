@@ -23,3 +23,10 @@ Django
 PostgreSQL
 GraphQL
 Python
+
+Database Design
+Users
+Properties 
+Bookings
+Reviews
+Payments
