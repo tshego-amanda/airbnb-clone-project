@@ -95,3 +95,22 @@ Security Testing
 Purpose: Identifies vulnerabilities through systematic analysis.
 Implementation: Automated security scans, penetration testing, and static code analysis tools like SonarQube.
 Importance: Ensures vulnerabilities are mitigated before deployment, strengthening overall security posture.
+
+CI/CD Pipeline
+Overview
+A CI/CD (Continuous Integration/Continuous Deployment) pipeline automates the process of building, testing, and deploying applications. It ensures faster development cycles, reduces manual errors, and enables seamless integration of new features.
+
+Importance
+Automated Testing: Detects defects early, improving software reliability.
+Faster Releases: Streamlines deployments, reducing downtime.
+Consistency: Ensures uniform builds and environments across staging and production.
+Efficiency: Eliminates manual steps, accelerating development workflows.
+Rollback Capabilities: Allows reverting faulty deployments with minimal disruption.
+
+Tools Used
+Version Control: Git, GitHub, GitLab
+CI/CD Automation: GitHub Actions, GitLab CI/CD, Jenkins, Azure DevOps
+Containerization: Docker, Kubernetes
+Infrastructure as Code: Terraform, Ansible
+Monitoring & Logging: Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana)
+
