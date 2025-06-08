@@ -17,3 +17,9 @@ Release Manager: Oversees deployment strategies, ensuring smooth and automated r
 Infrastructure Engineer: Maintains and improves the system architecture, provisioning, and scaling of resources.
 
 Monitoring & Observability Engineer: Designs dashboards, logs, and metrics to provide insights into system performance and incidents.
+
+Technology Stack
+Django
+PostgreSQL
+GraphQL
+Python
